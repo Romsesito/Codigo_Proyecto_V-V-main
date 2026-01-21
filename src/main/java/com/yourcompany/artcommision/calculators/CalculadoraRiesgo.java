@@ -35,7 +35,7 @@ public class CalculadoraRiesgo {
         if (diasRestantes < 0) {
    
             if (estado == EstadoComision.NUEVA) {
-                return "ABANDONO_CRITICO";
+                return "CRITICO_ABANDONO";
             }
             return "ATRASADA";
         }

@@ -1,4 +1,4 @@
-package com.yourcompany.artcommision.tests;
+package com.yourcompany.artcommision.calculators;
 
 import static org.junit.Assert.assertEquals;
 
